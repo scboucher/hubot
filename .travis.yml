@@ -13,4 +13,4 @@ matrix:
 notifications:
   email: false
 
-sudo: false
+sudo: true
