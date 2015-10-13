@@ -10,8 +10,7 @@ matrix:
     - node_js: "4.2" # Node v4 lts
     - node_js: "4"
       allow_failures:
-          - node_js: "4.0"
-          - node_js: "4.1"
+          - node_js: "0.8"
 notifications:
   email: false
 
